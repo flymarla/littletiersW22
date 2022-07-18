@@ -4,10 +4,10 @@ var low     = require('lowdb');
 var fs      = require('lowdb/adapters/FileSync');
 var adapter = new fs('db.json');
 var db      = low(adapter);
+var faker = require('faker');
 
 // configure express to serve static files from public directory
-// ------------------------------------------------------------------
-// YOUR CODE
+app.use(express.static('public'));
 
 // init the data store
 db.defaults({ users: []}).write();

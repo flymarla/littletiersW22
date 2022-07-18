@@ -12,6 +12,45 @@
       "latitude": 46.121212,
       "longitude": -73.121212,
       "avatar": "CatManDo"
+    },
+    {
+      "name": "Dr. Cheyanne Anderson",
+      "dob": "1990-7-6",
+      "email": "Cheyanne7@gmail.com",
+      "username": "Cheyanne.Anderson70",
+      "password": "mdLiHVThRjW0wJ9",
+      "phone": "(249) 700-5100 x8475",
+      "streetaddress": "032 Eleonore Underpass",
+      "citystatezip": "South Jocelyn, OH 07170-5098",
+      "latitude": "28.8679",
+      "longitude": "-171.7748",
+      "avatar": "https://cdn.fakercloud.com/avatars/franciscoamk_128.jpg"
+    },
+    {
+      "name": "Henderson Heller",
+      "dob": "1944-1-3",
+      "email": "Henderson_Heller@yahoo.com",
+      "username": "Henderson19",
+      "password": "bAXvaewQ2ZpL3iW",
+      "phone": "1-345-356-9821 x02614",
+      "streetaddress": "90730 Rohan Knolls",
+      "citystatezip": "Gleichnermouth, TN 23724-3756",
+      "latitude": "55.0523",
+      "longitude": "135.9268",
+      "avatar": "https://cdn.fakercloud.com/avatars/vimarethomas_128.jpg"
+    },
+    {
+      "name": "Kaden Goodwin",
+      "dob": "1964-2-11",
+      "email": "Kaden66@gmail.com",
+      "username": "Kaden_Goodwin",
+      "password": "UuLWrtyZkZNgZQY",
+      "phone": "1-738-758-3970 x242",
+      "streetaddress": "8668 Glenda Village",
+      "citystatezip": "West Reynoldbury, IN 79918",
+      "latitude": "59.6853",
+      "longitude": "129.2767",
+      "avatar": "https://cdn.fakercloud.com/avatars/n_tassone_128.jpg"
     }
   ]
 }
