@@ -24,11 +24,11 @@ app.get('/data', function(req, res){
 
 // post route
 app.post('/test', function(req, res){
-    console.log("consoleLog:  ", req) //req.body.username, req.body.password
-    res.send("res send req: " + req);
+    console.log("consoleLog:  ", req.body.username, req.body.password) //req.body.username, req.body.password
+    res.send("res send req: " + req.body.username + " " + req.body.password);
 });
 
-/*
+
 app.post('/add', function(req, res){
     const user = {
         'name'          :req.body.name,
@@ -47,7 +47,7 @@ app.post('/add', function(req, res){
         console.log(db.get('users').value());
         res.send(db.get('users').value());
 });
-*/
+
 
 // ----------------------------------------------------
 // add post - test using:

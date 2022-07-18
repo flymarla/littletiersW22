@@ -1,3 +1,17 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "Pitch",
+      "dob": "May 2019",
+      "email": "pitch@cat.com",
+      "username": "pitchycat",
+      "password": "secret",
+      "phone": "8675309",
+      "streetaddress": "555 Meow Lane",
+      "citystatezip": "Felineington, IA 56262",
+      "latitude": 46.121212,
+      "longitude": -73.121212,
+      "avatar": "CatManDo"
+    }
+  ]
 }
